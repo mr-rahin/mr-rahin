@@ -1,87 +1,147 @@
-# 🌱 Hey there, I'm Rahin Kazemi
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C6FF&height=220&section=header&text=Rahin%20Kazemi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20%26%20UI%20Craftsman&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0AC2C2&center=true&vCenter=true&width=600&lines=Turning+ideas+into+clean+interfaces...;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Pixel-perfect+%26+mobile-first+by+default;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
+
+</div>
 
 > *"Every senior developer was once a junior who refused to give up."*
 
-👋 I'm a curious and driven **Frontend Developer** with **2 years** of hands-on experience turning ideas into clean, responsive, and user-friendly web interfaces. I love the moment a design comes to life in the browser — that's where the magic happens for me.
+I'm a curious and driven **Frontend Developer** with **2 years** of hands-on experience turning ideas into clean, responsive, and user-friendly web interfaces. I love the moment a design comes to life in the browser — that's where the magic happens for me. Currently sharpening my skills with **React.js**, **TypeScript**, and modern UI practices, mainly through **real, self-driven projects**.
 
-🌱 Currently leveling up with **React.js**, **JavaScript/TypeScript**, and modern UI practices | 🎯 Frontend Enthusiast | 📚 Lifelong Learner
-
----
+<br/>
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahinkazemi-79968a369)
-[![GitLab](https://img.shields.io/badge/GitLab-View-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](YOUR_GITLAB_URL)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahinkazemi-79968a369)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rahin126)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzrahin7@gmail.com)
+[![GitLab](https://img.shields.io/badge/GitLab-View-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](YOUR_GITLAB_URL)
 
----
+</div>
 
-## 🧗 My Journey So Far
+<br/>
 
-### Frontend Developer @ [Company Name]
-**[Start Date] - Present | [City, Iran] | On-site/Remote**
+## 🚀 Featured Projects
 
-- Building and maintaining responsive web interfaces with React.js
-- Collaborating closely with designers to translate UI/UX concepts into working code
-- Writing clean, reusable components and improving page performance
-- Tech: `React.js` `JavaScript` `CSS3` `Tailwind CSS` `Git`
+> These are the projects that shaped my skills — replace the placeholders below with your real repos, screenshots, and live links.
 
-### Junior Frontend Developer @ [Previous Company]
-**[Start Date] - [End Date] | [City, Iran]**
+<table>
+<tr>
+<td width="50%">
 
-- Developed responsive websites from Figma/Adobe XD designs
-- Fixed cross-browser bugs and improved mobile responsiveness
-- Learned the fundamentals of component-based architecture
-- Tech: `HTML5` `CSS3` `JavaScript` `Bootstrap`
+### 🔹 [Project One Name](YOUR_PROJECT_LINK)
+A short, punchy description of what this project does and the problem it solves.
 
----
+`React.js` `Tailwind CSS` `API Integration`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C6FF?style=flat-square&logo=vercel&logoColor=white)](YOUR_LIVE_LINK)
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+</td>
+<td width="50%">
+
+### 🔹 [Project Two Name](YOUR_PROJECT_LINK)
+A short, punchy description of what this project does and the problem it solves.
+
+`Next.js` `TypeScript` `Redux`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C6FF?style=flat-square&logo=vercel&logoColor=white)](YOUR_LIVE_LINK)
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔹 [Project Three Name](YOUR_PROJECT_LINK)
+A short, punchy description of what this project does and the problem it solves.
+
+`JavaScript` `SASS` `Figma-to-Code`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C6FF?style=flat-square&logo=vercel&logoColor=white)](YOUR_LIVE_LINK)
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+</td>
+<td width="50%">
+
+### 🔹 [Project Four Name](YOUR_PROJECT_LINK)
+A short, punchy description of what this project does and the problem it solves.
+
+`React.js` `Bootstrap` `Responsive Design`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C6FF?style=flat-square&logo=vercel&logoColor=white)](YOUR_LIVE_LINK)
+[![Repo](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
-`JavaScript` `HTML5` `CSS3` `TypeScript (learning)`
+<div align="center">
 
-**Frameworks & Libraries**
-`React.js` `Redux` (or state you're comfortable with)
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,sass,git,github,figma,vscode&theme=dark)
 
-**Styling**
-`Tailwind CSS` `Bootstrap` `SASS`
+</div>
 
-**Tools**
-`Git` `GitHub` `VS Code` `Figma`
-
----
+<br/>
 
 ## 🎯 What Drives Me
 
-- 🧩 **Problem Solver** — I enjoy breaking down tricky UI challenges into simple solutions
-- 📱 **Detail-Oriented** — Pixel-perfect, mobile-first, and accessible by default
-- 🚀 **Fast Learner** — Two years in, and still hungry to learn something new every week
-- 🤝 **Team Player** — I believe great products come from great collaboration
+- 🧩 **Problem Solver** — breaking down tricky UI challenges into simple solutions
+- 📱 **Detail-Oriented** — pixel-perfect, mobile-first, and accessible by default
+- 🚀 **Fast Learner** — two years in, still hungry to learn something new every week
+- 🤝 **Team Player** — great products come from great collaboration
 
----
+<br/>
 
 ## 📈 Where I'm Headed
 
 I'm actively growing toward becoming a well-rounded frontend developer — diving deeper into **TypeScript**, **Next.js**, and clean architecture patterns. My goal isn't just to write code that works, but code that lasts.
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
-![Rahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>*(Set up automatically via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — see note below)*</sub>
+
+</div>
+
+<br/>
 
 ## 📫 Get in Touch
 
-- 📧 Email: **zzrahin7@gmail.com**
-- 💼 LinkedIn: **www.linkedin.com/in/rahin-kazemi-79968a369**
-
+📧 **zzrahin7@gmail.com** &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rahinkazemi-79968a369) &nbsp;•&nbsp; ✈️ [Telegram](https://t.me/Rahin126)
 
 ⭐ If you like what you see, feel free to check out my repos — and don't be shy to say hi!
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0A66C2&height=100&section=footer" width="100%"/>
 
-*Last Updated: July 2026 | Crafted with 💻 & ☕ by Rahin Kazemi*
+<sub>Last updated: July 2026 · Crafted with 💻 & ☕ by Rahin Kazemi</sub>
+
+</div>
