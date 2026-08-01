@@ -21,7 +21,7 @@ I'm a curious and driven **Frontend Developer** with **2 years** of hands-on exp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahinkazemi-79968a369)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rahin126)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzrahin7@gmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-View-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](YOUR_GITLAB_URL)
+
 
 </div>
 
@@ -114,9 +114,9 @@ I'm actively growing toward becoming a well-rounded frontend developer — divin
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-rahin&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rahin&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
@@ -126,7 +126,7 @@ I'm actively growing toward becoming a well-rounded frontend developer — divin
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/mr-rahin/mr-rahin/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>*(Set up automatically via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — see note below)*</sub>
 
