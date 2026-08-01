@@ -10,10 +10,10 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahinkazemi-79968a369)
 [![GitLab](https://img.shields.io/badge/GitLab-View-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](YOUR_GITLAB_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
-[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rahin126)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzrahin7@gmail.com)
 
 ---
 
@@ -76,9 +76,9 @@ I'm actively growing toward becoming a well-rounded frontend developer — divin
 
 ## 📫 Get in Touch
 
-- 📧 Email: **YOUR_EMAIL**
-- 💼 LinkedIn: **YOUR_LINKEDIN_URL**
-- 🐙 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+- 📧 Email: **zzrahin7@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/rahin-kazemi-79968a369**
+
 
 ⭐ If you like what you see, feel free to check out my repos — and don't be shy to say hi!
 
