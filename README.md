@@ -88,7 +88,7 @@ A short, punchy description of what this project does and the problem it solves.
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,gitlab,git,github,figma,vscode&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,gitlab,git,github,next,figma,vscode&theme=dark)
 
 </div>
 
