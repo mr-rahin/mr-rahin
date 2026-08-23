@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,100:00C6FF&amp;height=220&amp;section=header&amp;text=Rahin%20Kazemi&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Frontend%20Developer%20%7C%20React.js%20and%20UI%20Craftsman&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,100:00C6FF&amp;height=220&amp;section=header&amp;text=Rahin%20Kazemi&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Mid-Level%20Frontend%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=0AC2C2&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+ideas+into+clean+interfaces...;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Pixel-perfect+and+mobile-first+by+default;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=0AC2C2&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=React.js+%7C+Next.js+%7C+TypeScript;Based+in+Baku;Open+to+work" alt="Typing SVG" />
 </a>
 
 </div>
 
-> *"Every senior developer was once a junior who refused to give up."*
+Hey, I'm Rahin. I build web interfaces for a living, mostly with React and Next.js. Started out about two years ago doing plain JavaScript and CSS layouts, moved into React, and over the last while picked up TypeScript and Next.js properly enough to use them in real projects instead of just tutorials.
 
-I'm a curious and driven **Frontend Developer** with **2 years** of hands-on experience turning ideas into clean, responsive, and user-friendly web interfaces. I love the moment a design comes to life in the browser — that's where the magic happens for me. Currently sharpening my skills with **React.js**, **TypeScript**, and modern UI practices, mainly through **real, self-driven projects**.
+I like frontend work because you see the result immediately — you change something and the browser shows you right away if it worked or not. That feedback loop is what keeps me interested.
 
 <br/>
 
-## 🌐 Let's Connect
+## Links
 
 <div align="center">
 
@@ -22,21 +22,20 @@ I'm a curious and driven **Frontend Developer** with **2 years** of hands-on exp
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rahin126)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzrahin7@gmail.com)
 
-
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## Projects
 
-> These are the projects that shaped my skills — replace the placeholders below with your real repos, screenshots, and live links.
+Swap these placeholders out for your own repos and links when you're ready.
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔹 [Project One Name](YOUR_PROJECT_LINK)
-A short, punchy description of what this project does and the problem it solves.
+### [Project One Name](YOUR_PROJECT_LINK)
+What it does, in a sentence or two, without the sales pitch.
 
 `React.js` `Tailwind CSS` `API Integration`
 
@@ -46,8 +45,8 @@ A short, punchy description of what this project does and the problem it solves.
 </td>
 <td width="50%">
 
-### 🔹 [Project Two Name](YOUR_PROJECT_LINK)
-A short, punchy description of what this project does and the problem it solves.
+### [Project Two Name](YOUR_PROJECT_LINK)
+What it does, in a sentence or two, without the sales pitch.
 
 `Next.js` `TypeScript` `Redux`
 
@@ -59,8 +58,8 @@ A short, punchy description of what this project does and the problem it solves.
 <tr>
 <td width="50%">
 
-### 🔹 [Project Three Name](YOUR_PROJECT_LINK)
-A short, punchy description of what this project does and the problem it solves.
+### [Project Three Name](YOUR_PROJECT_LINK)
+What it does, in a sentence or two, without the sales pitch.
 
 `JavaScript` `SASS` `Figma-to-Code`
 
@@ -70,8 +69,8 @@ A short, punchy description of what this project does and the problem it solves.
 </td>
 <td width="50%">
 
-### 🔹 [Project Four Name](YOUR_PROJECT_LINK)
-A short, punchy description of what this project does and the problem it solves.
+### [Project Four Name](YOUR_PROJECT_LINK)
+What it does, in a sentence or two, without the sales pitch.
 
 `React.js` `Bootstrap` `Responsive Design`
 
@@ -84,7 +83,7 @@ A short, punchy description of what this project does and the problem it solves.
 
 <br/>
 
-## 🛠️ Tech Stack
+## Stack
 
 <div align="center">
 
@@ -94,22 +93,24 @@ A short, punchy description of what this project does and the problem it solves.
 
 <br/>
 
-## 🎯 What Drives Me
+## How I work
 
-- 🧩 **Problem Solver** — breaking down tricky UI challenges into simple solutions
-- 📱 **Detail-Oriented** — pixel-perfect, mobile-first, and accessible by default
-- 🚀 **Fast Learner** — two years in, still hungry to learn something new every week
-- 🤝 **Team Player** — great products come from great collaboration
+Not trying to sound impressive here, just how I actually approach things:
 
-<br/>
-
-## 📈 Where I'm Headed
-
-I'm actively growing toward becoming a well-rounded frontend developer — diving deeper into **TypeScript**, **Next.js**, and clean architecture patterns. My goal isn't just to write code that works, but code that lasts.
+- I break UI problems down instead of guessing at a fix — usually means checking the DOM, the state, and the network tab before touching code
+- Mobile-first isn't optional for me, I check layouts on a small screen before calling something done
+- I still look things up constantly, and I've stopped feeling weird about that
+- I'd rather ask a question in a PR review than push code I'm not sure about
 
 <br/>
 
-## 📊 GitHub Stats
+## Right now
+
+I'm past the "still learning TypeScript" phase and into actually shipping with it — Next.js too. Current focus is testing (something I skipped for too long), and getting better at structuring larger apps so they don't turn into a mess six months in.
+
+<br/>
+
+## GitHub stats
 
 <div align="center">
 
@@ -124,24 +125,20 @@ I'm actively growing toward becoming a well-rounded frontend developer — divin
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
 <img src="https://raw.githubusercontent.com/mr-rahin/mr-rahin/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>*(Set up automatically via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — see note below)*</sub>
+<sub>(generated automatically via <a href="https://github.com/Platane/snk">Platane/snk</a>)</sub>
 
 </div>
 
 <br/>
 
-## 📫 Get in Touch
+## Get in touch
 
-📧 **zzrahin7@gmail.com** &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rahinkazemi-79968a369) &nbsp;•&nbsp; ✈️ [Telegram](https://t.me/Rahin126)
+**zzrahin7@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rahinkazemi-79968a369) &nbsp;·&nbsp; [Telegram](https://t.me/Rahin126)
 
-⭐ If you like what you see, feel free to check out my repos — and don't be shy to say hi!
+Feel free to reach out if you want to talk about a project or just say hi.
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C6FF,100:0A66C2&amp;height=100&amp;section=footer" width="100%"/>
-
-<sub>Last updated: July 2026 · Crafted with 💻 & ☕ by Rahin Kazemi</sub>
-
 </div>
