@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,100:00C6FF&amp;height=220&amp;section=header&amp;text=Rahin%20Kazemi&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Frontend%20Developer%20%7C%20React.js%20%26%20UI%20Craftsman&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0AC2C2&center=true&vCenter=true&width=600&lines=Turning+ideas+into+clean+interfaces...;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Pixel-perfect+%26+mobile-first+by+default;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=0AC2C2&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+ideas+into+clean+interfaces...;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Pixel-perfect+%26+mobile-first+by+default;Always+learning%2C+always+building." alt="Typing SVG" />
 </a>
 
 </div>
@@ -113,10 +113,10 @@ I'm actively growing toward becoming a well-rounded frontend developer — divin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mr-rahin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-rahin&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mr-rahin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-rahin&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rahin&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rahin&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
 
 </div>
 
@@ -140,7 +140,7 @@ I'm actively growing toward becoming a well-rounded frontend developer — divin
 
 ⭐ If you like what you see, feel free to check out my repos — and don't be shy to say hi!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C6FF,100:0A66C2&amp;height=100&amp;section=footer" width="100%"/>
 
 <sub>Last updated: July 2026 · Crafted with 💻 & ☕ by Rahin Kazemi</sub>
 
